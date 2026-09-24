@@ -2,7 +2,7 @@
   "ManifestVersion": 1,
   "Pack": {
     "Name": "Prymeria",
-    "Version": "1.5.1"
+    "Version": "1.6"
   },
   "Minecraft": {
     "Version": "26.3"
@@ -16,166 +16,232 @@
   },
   "Mods": [
     {
+      "File": "advancednetherite-fabric-2.4.3-26.3.jar",
+      "Version": "2.4.3-26.3",
+      "Sha256": "e2bf0eabb54dcb2f3493e608e10ad6a42aef229dc58ee736b53a45436589eae8",
+      "Url": "https://github.com/BanditSunspot/Prymeria_Launcher/releases/download/v1.6/advancednetherite-fabric-2.4.3-26.3.jar"
+    },
+    {
       "File": "animated-mojang-logo-2.4.jar",
       "Version": "2.3",
       "Sha256": "f22f75e1d5fc1d063609a863124de084f766dda6e8482fc49bb9bc0848b0f9ef",
-      "Url": "https://github.com/BanditSunspot/Prymeria_Launcher/releases/download/v1.5.1/animated-mojang-logo-2.4.jar"
+      "Url": "https://github.com/BanditSunspot/Prymeria_Launcher/releases/download/v1.6/animated-mojang-logo-2.4.jar"
+    },
+    {
+      "File": "antixray-fabric-1.4.16\u002B26.3.jar",
+      "Version": "1.4.16",
+      "Sha256": "20171e2b2ada25505b9b1c2370192470c074423678974679548ccf27fa205521",
+      "Url": "https://github.com/BanditSunspot/Prymeria_Launcher/releases/download/v1.6/antixray-fabric-1.4.16%2B26.3.jar"
     },
     {
       "File": "appleskin-fabric-mc26.3-3.0.10.jar",
       "Version": "3.0.10\u002Bmc26.3",
       "Sha256": "cb05087c39f0d860611aa1fae7cf63560214d1b71378a7c903c18dc370b5c3ce",
-      "Url": "https://github.com/BanditSunspot/Prymeria_Launcher/releases/download/v1.5.1/appleskin-fabric-mc26.3-3.0.10.jar"
+      "Url": "https://github.com/BanditSunspot/Prymeria_Launcher/releases/download/v1.6/appleskin-fabric-mc26.3-3.0.10.jar"
     },
     {
       "File": "armor-stand-arms-v2.7.0.jar",
       "Version": "1-v2.7.0",
       "Sha256": "58e6131d0c448b092c33fc2f63f08aa54ebc162c855704fdd26a3c16ba547f95",
-      "Url": "https://github.com/BanditSunspot/Prymeria_Launcher/releases/download/v1.5.1/armor-stand-arms-v2.7.0.jar"
+      "Url": "https://github.com/BanditSunspot/Prymeria_Launcher/releases/download/v1.6/armor-stand-arms-v2.7.0.jar"
+    },
+    {
+      "File": "armored-elytra-1.16.0.jar",
+      "Version": "unspecified",
+      "Sha256": "c139e1e7aeebeb5ab0b09a591f9c12c79685ea2ca2f4f805ee7ac33557b530dc",
+      "Url": "https://github.com/BanditSunspot/Prymeria_Launcher/releases/download/v1.6/armored-elytra-1.16.0.jar"
     },
     {
       "File": "BoatJump-1.9.jar",
       "Version": "1.9",
       "Sha256": "9c45d684c4ed4bcf5953e8c48dac1afa72a05ce2e0b3ef4f14f2d833e448ce2b",
-      "Url": "https://github.com/BanditSunspot/Prymeria_Launcher/releases/download/v1.5.1/BoatJump-1.9.jar"
+      "Url": "https://github.com/BanditSunspot/Prymeria_Launcher/releases/download/v1.6/BoatJump-1.9.jar"
+    },
+    {
+      "File": "c2me-fabric-mc26.3-0.4.2-alpha.0.88.jar",
+      "Version": "0.4.2-alpha.0.88\u002B26.3",
+      "Sha256": "7a69da03f01d370c873e39cf1ed720bcffb2adfc0ee6ecdf1a1b578e52be699c",
+      "Url": "https://github.com/BanditSunspot/Prymeria_Launcher/releases/download/v1.6/c2me-fabric-mc26.3-0.4.2-alpha.0.88.jar"
     },
     {
       "File": "cc-tweaked-26.3-fabric-1.120.2.jar",
       "Version": "1.120.2",
       "Sha256": "476d8947761cd5fe142c08c1268b2643d266cdbc96a4b4941acde31a173d00ae",
-      "Url": "https://github.com/BanditSunspot/Prymeria_Launcher/releases/download/v1.5.1/cc-tweaked-26.3-fabric-1.120.2.jar"
+      "Url": "https://github.com/BanditSunspot/Prymeria_Launcher/releases/download/v1.6/cc-tweaked-26.3-fabric-1.120.2.jar"
     },
     {
       "File": "chat_heads-1.2.9-fabric-26.3.jar",
       "Version": "1.2.9",
       "Sha256": "b891cfa6345b3b76a7f7279aabf3eb46d8554c663988dd409c525628392faf19",
-      "Url": "https://github.com/BanditSunspot/Prymeria_Launcher/releases/download/v1.5.1/chat_heads-1.2.9-fabric-26.3.jar"
+      "Url": "https://github.com/BanditSunspot/Prymeria_Launcher/releases/download/v1.6/chat_heads-1.2.9-fabric-26.3.jar"
     },
     {
       "File": "chatanimation-fabric-1.3.3\u002Bmc26.3.jar",
       "Version": "1.3.3",
       "Sha256": "a4c44eeaecaabddbf650f293d5dbe4a244daf4a5e864cd242b53ced6d18844fb",
-      "Url": "https://github.com/BanditSunspot/Prymeria_Launcher/releases/download/v1.5.1/chatanimation-fabric-1.3.3%2Bmc26.3.jar"
+      "Url": "https://github.com/BanditSunspot/Prymeria_Launcher/releases/download/v1.6/chatanimation-fabric-1.3.3%2Bmc26.3.jar"
     },
     {
       "File": "Clumps-fabric-26.3-26.3.2.jar",
       "Version": "26.3.2",
       "Sha256": "8c72b1505a11ad93ed19b5a914eb6a036da92eb323d58da288bef36c19ed7624",
-      "Url": "https://github.com/BanditSunspot/Prymeria_Launcher/releases/download/v1.5.1/Clumps-fabric-26.3-26.3.2.jar"
+      "Url": "https://github.com/BanditSunspot/Prymeria_Launcher/releases/download/v1.6/Clumps-fabric-26.3-26.3.2.jar"
     },
     {
       "File": "dynamic-lights-creepermeyt-v1.4.6-mc1.17.x-26.3.jar",
       "Version": "1-v1.4.6-mc1.17.x-26.3",
       "Sha256": "b61c5081bdff450bf7621ba2bcae35ec6af39f100e3697cd0dd39d7114a9af8d",
-      "Url": "https://github.com/BanditSunspot/Prymeria_Launcher/releases/download/v1.5.1/dynamic-lights-creepermeyt-v1.4.6-mc1.17.x-26.3.jar"
+      "Url": "https://github.com/BanditSunspot/Prymeria_Launcher/releases/download/v1.6/dynamic-lights-creepermeyt-v1.4.6-mc1.17.x-26.3.jar"
+    },
+    {
+      "File": "elytra_physics-fabric-2.6.3_mc26.3.jar",
+      "Version": "2.6.3_mc26.3",
+      "Sha256": "40de7830aa5b9a87ba42faf5330144819502b0b41d7271f4189f07ba532b3c5c",
+      "Url": "https://github.com/BanditSunspot/Prymeria_Launcher/releases/download/v1.6/elytra_physics-fabric-2.6.3_mc26.3.jar"
     },
     {
       "File": "Essential_1-5-0-1_fabric_26-3.jar",
       "Version": "1.0.0",
       "Sha256": "42ee2655bba2ff70d923c26570eef51943df5d7bbdc13d901c1744a7da9f2244",
-      "Url": "https://github.com/BanditSunspot/Prymeria_Launcher/releases/download/v1.5.1/Essential_1-5-0-1_fabric_26-3.jar"
+      "Url": "https://github.com/BanditSunspot/Prymeria_Launcher/releases/download/v1.6/Essential_1-5-0-1_fabric_26-3.jar"
     },
     {
       "File": "fabric-api-0.161.0\u002B26.3.jar",
       "Version": "0.161.0\u002B26.3",
       "Sha256": "86f16178a3cecc887a85a4cfe9a79d92fa7341d8f39b5951a4d6ad800ab657a6",
-      "Url": "https://github.com/BanditSunspot/Prymeria_Launcher/releases/download/v1.5.1/fabric-api-0.161.0%2B26.3.jar"
+      "Url": "https://github.com/BanditSunspot/Prymeria_Launcher/releases/download/v1.6/fabric-api-0.161.0%2B26.3.jar"
     },
     {
       "File": "fabric-language-kotlin-1.14.1\u002Bkotlin.2.4.20.jar",
       "Version": "1.14.1\u002Bkotlin.2.4.20",
       "Sha256": "620c2709be2a262b837cf976f6f85f6eda80a56af2ba4242e0bdc83a60fee7a5",
-      "Url": "https://github.com/BanditSunspot/Prymeria_Launcher/releases/download/v1.5.1/fabric-language-kotlin-1.14.1%2Bkotlin.2.4.20.jar"
+      "Url": "https://github.com/BanditSunspot/Prymeria_Launcher/releases/download/v1.6/fabric-language-kotlin-1.14.1%2Bkotlin.2.4.20.jar"
     },
     {
-      "File": "freecam-fabric-1.5.0-alpha.1\u002Bmc26.3.jar",
-      "Version": "1.5.0-alpha.1",
-      "Sha256": "c90dc57382981cf390d0bba08ed0fec3e9f513aeff44e5b94fcc2824561c966f",
-      "Url": "https://github.com/BanditSunspot/Prymeria_Launcher/releases/download/v1.5.1/freecam-fabric-1.5.0-alpha.1%2Bmc26.3.jar"
+      "File": "ferritecore-9.0.0-fabric.jar",
+      "Version": "9.0.0",
+      "Sha256": "213966c72ed967acc7392beb28a866fba301ff56b9976c2e7801c2db7de6bf22",
+      "Url": "https://github.com/BanditSunspot/Prymeria_Launcher/releases/download/v1.6/ferritecore-9.0.0-fabric.jar"
+    },
+    {
+      "File": "freecam-fabric-1.5.0-alpha.2\u002Bmc26.3.jar",
+      "Version": "1.5.0-alpha.2",
+      "Sha256": "78bc05ca1716d7413eec8e5261c7152bbccd78b63ce572ee5a0f3a7db5ffdd41",
+      "Url": "https://github.com/BanditSunspot/Prymeria_Launcher/releases/download/v1.6/freecam-fabric-1.5.0-alpha.2%2Bmc26.3.jar"
     },
     {
       "File": "fusion-1.3.15a-fabric-mc26.3.jar",
       "Version": "1.3.15\u002Ba",
       "Sha256": "ae7dc70a57b89db079445560923bf7f28bb0c0db2937930b65f1408d0b60817e",
-      "Url": "https://github.com/BanditSunspot/Prymeria_Launcher/releases/download/v1.5.1/fusion-1.3.15a-fabric-mc26.3.jar"
+      "Url": "https://github.com/BanditSunspot/Prymeria_Launcher/releases/download/v1.6/fusion-1.3.15a-fabric-mc26.3.jar"
+    },
+    {
+      "File": "fwa\u002B26.3-1.2.40.jar",
+      "Version": "1.2.40",
+      "Sha256": "92754c30290b40f90daf7c9bf626894637102b5594b65cd874591dcc11055eb6",
+      "Url": "https://github.com/BanditSunspot/Prymeria_Launcher/releases/download/v1.6/fwa%2B26.3-1.2.40.jar"
     },
     {
       "File": "iris-fabric-1.11.6\u002Bmc26.3.jar",
       "Version": "1.11.6\u002Bmc26.3",
       "Sha256": "0fcd6f8858db94ed1f28210005fcff9b9364beaa6eb2a8eccf9449a6f709f14d",
-      "Url": "https://github.com/BanditSunspot/Prymeria_Launcher/releases/download/v1.5.1/iris-fabric-1.11.6%2Bmc26.3.jar"
+      "Url": "https://github.com/BanditSunspot/Prymeria_Launcher/releases/download/v1.6/iris-fabric-1.11.6%2Bmc26.3.jar"
     },
     {
-      "File": "jei-26.3-fabric-31.1.0.12.jar",
-      "Version": "31.1.0.12",
-      "Sha256": "1f8a2f6af41350f7da8b64d2f3e73f6cdf2a6a5612daaa6b0df50722af5dbecd",
-      "Url": "https://github.com/BanditSunspot/Prymeria_Launcher/releases/download/v1.5.1/jei-26.3-fabric-31.1.0.12.jar"
+      "File": "jei-26.3-fabric-31.7.0.31.jar",
+      "Version": "31.7.0.31",
+      "Sha256": "bd1221688ddf8d14a685ba7443feb2778645a64306202615f0dd6d9b11381e74",
+      "Url": "https://github.com/BanditSunspot/Prymeria_Launcher/releases/download/v1.6/jei-26.3-fabric-31.7.0.31.jar"
     },
     {
       "File": "journeymap-fabric-26.3-6.0.9.jar",
       "Version": "26.3-6.0.9",
       "Sha256": "dcf3e9e8802dabfb6ac9e17ef43c5cbfb989808d9321c656c1201f261b1301ec",
-      "Url": "https://github.com/BanditSunspot/Prymeria_Launcher/releases/download/v1.5.1/journeymap-fabric-26.3-6.0.9.jar"
+      "Url": "https://github.com/BanditSunspot/Prymeria_Launcher/releases/download/v1.6/journeymap-fabric-26.3-6.0.9.jar"
+    },
+    {
+      "File": "ketkets-player-shops-4.7.jar",
+      "Version": "4.7",
+      "Sha256": "79ba1de0afdd30bdde752bcf4c7f33f75d5077b3a23f4afc4582da7256db44d8",
+      "Url": "https://github.com/BanditSunspot/Prymeria_Launcher/releases/download/v1.6/ketkets-player-shops-4.7.jar"
     },
     {
       "File": "Ksyxis-1.4.4.jar",
       "Version": "1.4.4",
       "Sha256": "84186b3d128fd45b6affb4af2d4132520ec302ea53634f53b717d14689784905",
-      "Url": "https://github.com/BanditSunspot/Prymeria_Launcher/releases/download/v1.5.1/Ksyxis-1.4.4.jar"
+      "Url": "https://github.com/BanditSunspot/Prymeria_Launcher/releases/download/v1.6/Ksyxis-1.4.4.jar"
     },
     {
-      "File": "lib-5555ff-v1.2.0.jar",
-      "Version": "1-v1.2.0",
-      "Sha256": "9d233e863a0ebf924bcf0ac981f9727412d0a5afff77391068b3f2dfaecbbcc6",
-      "Url": "https://github.com/BanditSunspot/Prymeria_Launcher/releases/download/v1.5.1/lib-5555ff-v1.2.0.jar"
+      "File": "lib-5555ff-v1.2.1.jar",
+      "Version": "v1.2.1",
+      "Sha256": "747a87ca0a3afc08a4e2c401bdf2042a65ee4b927f2e4bbd04e3307625070186",
+      "Url": "https://github.com/BanditSunspot/Prymeria_Launcher/releases/download/v1.6/lib-5555ff-v1.2.1.jar"
     },
     {
-      "File": "modmenu-21.0.0-beta.1.jar",
-      "Version": "21.0.0-beta.1",
-      "Sha256": "d08bbecdf9bc79fb2a84b46f726259cb40a8f33f080ee77ff9c08a329770a8fe",
-      "Url": "https://github.com/BanditSunspot/Prymeria_Launcher/releases/download/v1.5.1/modmenu-21.0.0-beta.1.jar"
+      "File": "modmenu-21.0.0.jar",
+      "Version": "21.0.0",
+      "Sha256": "837812c6c98d66141db7b5dcae668f27fb78d557e8f4c0c89912985fc26a5e6f",
+      "Url": "https://github.com/BanditSunspot/Prymeria_Launcher/releases/download/v1.6/modmenu-21.0.0.jar"
     },
     {
-      "File": "plasmovoice-fabric-26.3-2.1.17.jar",
-      "Version": "2.1.17",
-      "Sha256": "bce5f8f89f78a667493fd4a926ca8f1c393c9de81eb8fc32f095da0325ca4f43",
-      "Url": "https://github.com/BanditSunspot/Prymeria_Launcher/releases/download/v1.5.1/plasmovoice-fabric-26.3-2.1.17.jar"
+      "File": "obe\u002B26.3-1.1.49.jar",
+      "Version": "1.1.49",
+      "Sha256": "2046b206f5fef36dbd8fedd3939d40494e415200deeae1508fa96ab48776368a",
+      "Url": "https://github.com/BanditSunspot/Prymeria_Launcher/releases/download/v1.6/obe%2B26.3-1.1.49.jar"
+    },
+    {
+      "File": "sodium-extra-fabric-0.9.4\u002Bmc26.3.jar",
+      "Version": "0.9.4\u002Bmc26.3",
+      "Sha256": "fb0a24fa4d46f3669b827e73b7f33be8b48821fdca3dea3d283022330bf6a874",
+      "Url": "https://github.com/BanditSunspot/Prymeria_Launcher/releases/download/v1.6/sodium-extra-fabric-0.9.4%2Bmc26.3.jar"
     },
     {
       "File": "sodium-fabric-0.9.2\u002Bmc26.3.jar",
       "Version": "0.9.2\u002Bmc26.3",
       "Sha256": "87a5bb39f7e6e41106e77f122f82fc93f9d3bc0b6ebcb746b314172a446a287a",
-      "Url": "https://github.com/BanditSunspot/Prymeria_Launcher/releases/download/v1.5.1/sodium-fabric-0.9.2%2Bmc26.3.jar"
+      "Url": "https://github.com/BanditSunspot/Prymeria_Launcher/releases/download/v1.6/sodium-fabric-0.9.2%2Bmc26.3.jar"
     },
     {
       "File": "sound-physics-remastered-fabric-1.5.1\u002B26.3.jar",
       "Version": "1.5.1\u002B26.3",
       "Sha256": "a27bb5e02315b5c9dafefd2763ca1a427b8de4f66c5b500678e368f3668324ae",
-      "Url": "https://github.com/BanditSunspot/Prymeria_Launcher/releases/download/v1.5.1/sound-physics-remastered-fabric-1.5.1%2B26.3.jar"
+      "Url": "https://github.com/BanditSunspot/Prymeria_Launcher/releases/download/v1.6/sound-physics-remastered-fabric-1.5.1%2B26.3.jar"
     },
     {
       "File": "timelesslib-2.0.0-fabric-26.3.jar",
       "Version": "2.0.0-fabric-26.3",
       "Sha256": "b293e7f497ccd85f87b1691c958bef7359ac2d7137f6108457b2bd68ec67cbe8",
-      "Url": "https://github.com/BanditSunspot/Prymeria_Launcher/releases/download/v1.5.1/timelesslib-2.0.0-fabric-26.3.jar"
+      "Url": "https://github.com/BanditSunspot/Prymeria_Launcher/releases/download/v1.6/timelesslib-2.0.0-fabric-26.3.jar"
     },
     {
-      "File": "veinminer-fabric-2.12.1.jar",
-      "Version": "2.12.1",
-      "Sha256": "37878cb8de86468658c5192db14a4e58943699484ff236631071e9f7a175489c",
-      "Url": "https://github.com/BanditSunspot/Prymeria_Launcher/releases/download/v1.5.1/veinminer-fabric-2.12.1.jar"
+      "File": "underlay-1.0.5-fabric-mc26.3.jar",
+      "Version": "1.0.5",
+      "Sha256": "ffba59063740752454417ffc769efcab3d48af4fcbe4d5e978d1f08816871a04",
+      "Url": "https://github.com/BanditSunspot/Prymeria_Launcher/releases/download/v1.6/underlay-1.0.5-fabric-mc26.3.jar"
+    },
+    {
+      "File": "veinminer-fabric-2.12.2.jar",
+      "Version": "2.12.2",
+      "Sha256": "5fc823dc3044caf6bc39ff0e704071c94d5c82257617ff19d56acd9113daa625",
+      "Url": "https://github.com/BanditSunspot/Prymeria_Launcher/releases/download/v1.6/veinminer-fabric-2.12.2.jar"
     },
     {
       "File": "waveycapes-fabric-1.11.2-mc26.3.jar",
       "Version": "1.11.2",
       "Sha256": "89d59f07bfcb1346836208d9d6439b24c841dbafc081187bc689b4e9a44bca58",
-      "Url": "https://github.com/BanditSunspot/Prymeria_Launcher/releases/download/v1.5.1/waveycapes-fabric-1.11.2-mc26.3.jar"
+      "Url": "https://github.com/BanditSunspot/Prymeria_Launcher/releases/download/v1.6/waveycapes-fabric-1.11.2-mc26.3.jar"
     },
     {
-      "File": "yet_another_config_lib_v3-3.9.6\u002B26.3-fabric.jar",
-      "Version": "3.9.6\u002B26.3-fabric",
-      "Sha256": "65d46c46e85b221dbe28a7aa6d3c757908d390b230545ab3a8cc546500f4cd5b",
-      "Url": "https://github.com/BanditSunspot/Prymeria_Launcher/releases/download/v1.5.1/yet_another_config_lib_v3-3.9.6%2B26.3-fabric.jar"
+      "File": "worldedit-mod-7.4.6-beta-02.jar",
+      "Version": "7.4.6-beta-02\u002B2c90a77a1",
+      "Sha256": "4bf170e934a73bbc0bc60a4169517a45be2ee83a0883132a96dd5975e1dc06af",
+      "Url": "https://github.com/BanditSunspot/Prymeria_Launcher/releases/download/v1.6/worldedit-mod-7.4.6-beta-02.jar"
+    },
+    {
+      "File": "yet_another_config_lib_v3-3.9.7\u002B26.3-fabric.jar",
+      "Version": "3.9.7\u002B26.3-fabric",
+      "Sha256": "c52d41d444522d9abba994cd4c4ee2e71a065d7c31010f92a9959b80ccb4b0f5",
+      "Url": "https://github.com/BanditSunspot/Prymeria_Launcher/releases/download/v1.6/yet_another_config_lib_v3-3.9.7%2B26.3-fabric.jar"
     }
   ]
 }
